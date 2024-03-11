@@ -1,0 +1,2 @@
+This jar is intentionally empty, so our basepom can pick up resources from our "com.hubspot:basepom-policy" artifact.
+
