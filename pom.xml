@@ -24,7 +24,7 @@
   <groupId>com.hubspot</groupId>
   <artifactId>basepom-policy</artifactId>
   <packaging>jar</packaging>
-  <version>11.1-SNAPSHOT</version>
+  <version>11.1</version>
   <name>basepom-policy</name>
 
   <description>
@@ -38,7 +38,7 @@
     <connection>scm:git:git://github.com/basepom/basepom-policy.git</connection>
     <developerConnection>scm:git:git@github.com:basepom/basepom-policy.git</developerConnection>
     <url>https://github.com/basepom/basepom-policy</url>
-    <tag>HEAD</tag>
+    <tag>basepom-policy-11.1</tag>
   </scm>
 
   <licenses>
